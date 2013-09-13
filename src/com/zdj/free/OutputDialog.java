@@ -1,4 +1,4 @@
-package com.ibm.tivoli;
+package com.zdj.free;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;

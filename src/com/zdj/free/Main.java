@@ -1,4 +1,4 @@
-package com.ibm.tivoli;
+package com.zdj.free;
 
 public class Main {
 	public static String currentPath=".";

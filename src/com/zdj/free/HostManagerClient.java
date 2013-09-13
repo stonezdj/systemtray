@@ -1,4 +1,4 @@
-package com.ibm.tivoli;
+package com.zdj.free;
 
 import java.awt.AWTException;
 import java.awt.CheckboxMenuItem;
@@ -41,10 +41,10 @@ import javax.swing.JPopupMenu;
 
 import org.apache.commons.io.FileUtils;
 
-import com.ibm.tivoli.config.ApplicationConfig;
-import com.ibm.tivoli.config.CustomizedHostConfig;
-import com.ibm.tivoli.config.LinuxHostConfig;
-import com.ibm.tivoli.config.WindowsHostConfig;
+import com.zdj.free.config.ApplicationConfig;
+import com.zdj.free.config.CustomizedHostConfig;
+import com.zdj.free.config.LinuxHostConfig;
+import com.zdj.free.config.WindowsHostConfig;
 
 
 public class HostManagerClient implements ActionListener{

@@ -1,4 +1,4 @@
-package com.ibm.tivoli;
+package com.zdj.free;
 
 import java.io.BufferedReader;   
 import java.io.InputStream;   

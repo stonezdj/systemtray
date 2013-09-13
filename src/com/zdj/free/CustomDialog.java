@@ -29,7 +29,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */ 
 
-package com.ibm.tivoli;
+package com.zdj.free;
 
 import javax.swing.JOptionPane;
 import javax.swing.JDialog;

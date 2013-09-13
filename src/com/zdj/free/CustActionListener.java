@@ -1,11 +1,11 @@
-package com.ibm.tivoli;
+package com.zdj.free;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.MessageFormat;
 import java.util.logging.Logger;
 
-import com.ibm.tivoli.config.ApplicationConfig;
+import com.zdj.free.config.ApplicationConfig;
 
 public class CustActionListener implements ActionListener {
 	private final static Logger LOG = HostManagerClient.LOG;

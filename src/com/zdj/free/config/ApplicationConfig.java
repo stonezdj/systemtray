@@ -1,4 +1,4 @@
-package com.ibm.tivoli.config;
+package com.zdj.free.config;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
 
-import com.ibm.tivoli.Main;
+import com.zdj.free.Main;
 
 
 public class ApplicationConfig {

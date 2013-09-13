@@ -1,4 +1,4 @@
-package com.ibm.tivoli.test;
+package com.zdj.free.test;
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,9 +1,9 @@
-package com.ibm.tivoli.config;
+package com.zdj.free.config;
 
 import java.io.File;
 
-import com.ibm.tivoli.HostConfig;
-import com.ibm.tivoli.Main;
+import com.zdj.free.HostConfig;
+import com.zdj.free.Main;
 
 public class CustomizedHostConfig extends HostConfig{
 	public CustomizedHostConfig()
